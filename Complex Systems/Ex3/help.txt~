@@ -1,0 +1,3 @@
+First is still stochastic: Slogl. They are hig order reaction and we want to simulate them stochasticly.
+Run 200 simulation, you compute the final state
+Second one is ODE one is the uptake and the other is the elimination. What is revelant for us is the bloodstream. Time plus 1 and we save it, this is deterministic so it should always work. Part ii) Run the ODE you implement with different time steps. And this is just for us to know what is going on. The plot error vs step size is always incresing.sss
